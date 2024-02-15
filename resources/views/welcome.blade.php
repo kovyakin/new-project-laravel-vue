@@ -16,6 +16,9 @@
         </style>
     </head>
     <body class="antialiased">
-    <h1 class="text-gray-900 text-3xl">Hello</h1>
+
+    <div id="app">
+    </div>
+
        </body>
 </html>

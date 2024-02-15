@@ -14,8 +14,10 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
+        "@tailwindcss/forms": "^0.5.7",
+        "@tailwindcss/typography": "^0.5.10",
         "@vitejs/plugin-vue": "^5.0.4",
-        "file-uri-to-path": "^2.0.0",
-        "tw-elements": "^1.1.0"
+        "tw-elements": "^1.1.0",
+        "vue": "^3.4.19"
     }
 }
