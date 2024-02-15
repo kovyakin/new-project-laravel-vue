@@ -14,4 +14,4 @@ add  to blade
 #### Install TW Elements
 https://tw-elements.com/docs/standard/getting-started/quick-start/#vite
 
-
+npm i @vitejs/plugin-vue
